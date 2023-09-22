@@ -29,3 +29,11 @@ a:visited{
 a:hover{
     color: greenyellow;
 }
+button{
+    background-color: blueviolet;
+    border: 1px double black;
+    border-radius: 10px;
+}
+button:hover{
+    box-shadow: 8px 0 8px 0;
+}
